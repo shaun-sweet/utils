@@ -1,7 +1,11 @@
 {
   "name": "config-getter",
-  "version": "0.1.0",
+  "version": "0.1.1-0",
   "main": "index.js",
   "author": "Shaun Sweet",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fs": "^0.0.1-security"
+  }
 }
