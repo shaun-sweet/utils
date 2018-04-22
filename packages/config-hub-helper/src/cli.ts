@@ -1,7 +1,7 @@
-const axios = require('axios');
-const fs = require('fs');
-const argv = require('yargs').argv;
-const chalk = require('chalk');
+import axios from 'axios';
+import { argv } from 'yargs';
+import chalk from 'chalk';
+import * as fs from 'fs';
 
 const TOKEN = 'token';
 const CONTEXT = 'context';
