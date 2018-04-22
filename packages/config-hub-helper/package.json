@@ -5,7 +5,7 @@
   "author": "Shaun Sweet",
   "license": "MIT",
   "bin": {
-    "confighh": "./index.js"
+    "confighh": "./cli.js"
   },
   "dependencies": {
     "axios": "^0.18.0",
